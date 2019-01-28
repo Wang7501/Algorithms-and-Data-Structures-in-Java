@@ -18,3 +18,4 @@ IntelliJ IDEA 14
 MacBook Pro  
 2.6 GHz Intel Core i5   
 8 GB 1600 MHz DDR3
+
